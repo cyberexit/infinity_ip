@@ -25,15 +25,14 @@ apt update -y
 
 apt install python3 -y
 
-git clone https://github.com/cyberexit/infinity_ip
-
+git clone https://github.com/cyberexit/infinity_ip.git
 ```
 
 ### One Click Installation :
 
 ```
 
-apt update -y ; apt install python -y ; apt install git -y ; git clone https://github.com/cyberexit/infinity_ip
+apt update -y ; apt install python -y ; apt install git -y ; git clone https://github.com/cyberexit/infinity_ip.git
 
 ```
 ### FOR RUN :
