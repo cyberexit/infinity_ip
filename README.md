@@ -1,8 +1,8 @@
-<h2 align="center"> Ip_Tracker </h2>
+<h2 align="center"> Infinity_ip </h2>
 
-<h3>VERSION : 1.0.1</h3>
+<h3>VERSION : 1.0</h3>
 
-**A SIMPLE TOOL KIT FOR IP TRACKING WITH TERMINAL.**
+**A SIMPLE TOOL KIT FOR WORLD TOUR WITH TERMINAL.**
 
 [![Author](https://img.shields.io/badge/Author-Cyberexit-blue)](https://github.com/cyberexit)
 
@@ -10,7 +10,7 @@
 
 [![Opensource](https://img.shields.io/badge/Open%20Source-Yes-green)](#)
 
-**THE MAIN AUTHOR OF THIS CODE CYBEREXIT**
+**THE MAIN AUTHOR OF THIS CODE FRMANMAJID**
 
 #### REQUIREMENTS
 
@@ -22,17 +22,13 @@
 
 ```
 
+sudo su
+
 apt update -y
 
 apt install python3 -y
 
-apt install figlet -y
-
-apt install git -y
-
-pip install requests
-
-git clone https://github.com/cyberexit/Ip-Tracker
+https://github.com/cyberexit/infinity_ip
 
 ```
 
@@ -40,18 +36,18 @@ git clone https://github.com/cyberexit/Ip-Tracker
 
 ```
 
-apt update -y ; apt install python -y ; apt install figlet -y ; apt install git -y ; pip install requests ; git clone https://github.com/cyberexit/Ip-Tracker
+sudo su ; apt update -y ; apt install python -y ; apt install git -y ; https://github.com/cyberexit/infinity_ip
 
 ```
-![Image](https://user-images.githubusercontent.com/114644998/222815725-4e69158d-1054-405c-9548-ceac365421ba.jpg)
-
 ### FOR RUN :
 
 ```
 
-cd Ip-Tracker 
+cd infinity_ip 
 
-python IpTracker.py
+python install.py
+
+AFTER INSTALL TYPE IN YOUR TERMINAL (infinityTest)
 
 ```
 <div align="center">
