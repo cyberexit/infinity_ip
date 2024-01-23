@@ -25,7 +25,7 @@ apt update -y
 
 apt install python3 -y
 
-https://github.com/cyberexit/infinity_ip
+git clone https://github.com/cyberexit/infinity_ip
 
 ```
 
@@ -33,7 +33,7 @@ https://github.com/cyberexit/infinity_ip
 
 ```
 
-apt update -y ; apt install python -y ; apt install git -y ; https://github.com/cyberexit/infinity_ip
+apt update -y ; apt install python -y ; apt install git -y ; git clone https://github.com/cyberexit/infinity_ip
 
 ```
 ### FOR RUN :
